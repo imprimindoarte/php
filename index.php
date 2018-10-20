@@ -1,5 +1,6 @@
 <?php
 
-	echo "Olá Mundo! Testes";
-	echo "By Imprimindo Arte";
+	echo "Olá Mundo! Eu sou um Desenvolvedor Fullstack";
+	echo "By Mário Fernando - Imprimindo Arte";
+
 ?>
